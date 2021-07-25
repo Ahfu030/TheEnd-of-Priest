@@ -300,7 +300,7 @@
 -r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/NetStandard/Extensions/2.0.0/System.Numerics.Vectors.dll"
 -r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/NetStandard/Extensions/2.0.0/System.Runtime.InteropServices.WindowsRuntime.dll"
 -r:"C:/Program Files/Unity/Hub/Editor/2021.1.11f1/Editor/Data/NetStandard/ref/2.0.0/netstandard.dll"
--r:"D:/Unity/神父末日03/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll"
+-r:"D:/GitHub/TheEnd-of-Priest/TheEnd-of-Priset/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/Fungus.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/FungusEditor.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/FungusEditorTests.ref.dll"
