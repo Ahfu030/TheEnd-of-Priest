@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1893448595, guid: a040fb66244a7f54289914d98ea4ef7d, type: 3}
+  m_Name: Level1Enemy4
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"graph":{"variables":{"collection":{"$content":[],"$version":"A"},"$version":"A"},"controlInputDefinitions":[],"controlOutputDefinitions":[],"valueInputDefinitions":[],"valueOutputDefinitions":[],"title":null,"summary":null,"pan":{"x":0.0,"y":0.0},"zoom":1.0,"elements":[{"coroutine":false,"defaultValues":{},"position":{"x":-217.0,"y":143.0},"guid":"d8adc8ee-9eea-4452-bbe6-c2e4a3ce673c","$version":"A","$type":"Bolt.Update"},{"coroutine":false,"defaultValues":{},"position":{"x":-165.0,"y":-89.0},"guid":"e6833b22-2567-4b39-a5e7-c5656bcb6249","$version":"A","$type":"Bolt.Start","$id":"11"},{"kind":"Application","defaultValues":{"name":{"$content":"Enemy","$type":"System.String"}},"position":{"x":31.0,"y":-67.0},"guid":"0639b598-ce6a-46c8-b126-f5ac27464e08","$version":"A","$type":"Bolt.SetVariable","$id":"13"},{"defaultValues":{},"position":{"x":-151.0,"y":11.0},"guid":"1ff20a5b-c79a-49ab-8db1-c3e4fb27566b","$version":"A","$type":"Bolt.Self","$id":"15"},{"sourceUnit":{"$ref":"11"},"sourceKey":"trigger","destinationUnit":{"$ref":"13"},"destinationKey":"assign","guid":"cf412ada-0bfd-4583-8b37-2bc3690a2f97","$type":"Bolt.ControlConnection"},{"sourceUnit":{"$ref":"15"},"sourceKey":"self","destinationUnit":{"$ref":"13"},"destinationKey":"input","guid":"7bbbfffc-7f6c-457d-ab8b-f1dd13948086","$type":"Bolt.ValueConnection"}],"$version":"A"}}'
+    _objectReferences: []
